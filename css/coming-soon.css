@@ -101,7 +101,7 @@ body {
 }
 
 .social-icons ul {
-  margin-top: 2rem;
+  margin-top: 0rem;
   width: 100%;
   text-align: center;
 }
@@ -128,8 +128,8 @@ body {
   .social-icons {
     margin: 0;
     position: absolute;
-    right: 2.5rem;
-    top: 2rem;
+    right: 3rem;
+    top: 5rem;
     width: auto;
   }
   .social-icons ul {
